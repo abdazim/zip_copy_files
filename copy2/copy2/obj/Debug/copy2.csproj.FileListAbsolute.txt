@@ -1,0 +1,19 @@
+c:\users\ff3\documents\visual studio 2015\Projects\copy2\copy2\bin\Debug\copy2.exe.config
+c:\users\ff3\documents\visual studio 2015\Projects\copy2\copy2\bin\Debug\copy2.exe
+c:\users\ff3\documents\visual studio 2015\Projects\copy2\copy2\bin\Debug\copy2.pdb
+c:\users\ff3\documents\visual studio 2015\Projects\copy2\copy2\obj\Debug\copy2.csprojResolveAssemblyReference.cache
+c:\users\ff3\documents\visual studio 2015\Projects\copy2\copy2\obj\Debug\copy2.Form1.resources
+c:\users\ff3\documents\visual studio 2015\Projects\copy2\copy2\obj\Debug\copy2.Properties.Resources.resources
+c:\users\ff3\documents\visual studio 2015\Projects\copy2\copy2\obj\Debug\copy2.csproj.GenerateResource.Cache
+c:\users\ff3\documents\visual studio 2015\Projects\copy2\copy2\obj\Debug\copy2.exe
+c:\users\ff3\documents\visual studio 2015\Projects\copy2\copy2\obj\Debug\copy2.pdb
+D:\Job Files\WD\My projects\C Sharp\Visual Studio project\copy2\copy2\bin\Debug\copy2.exe.config
+D:\Job Files\WD\My projects\C Sharp\Visual Studio project\copy2\copy2\bin\Debug\copy2.exe
+D:\Job Files\WD\My projects\C Sharp\Visual Studio project\copy2\copy2\bin\Debug\copy2.pdb
+D:\Job Files\WD\My projects\C Sharp\Visual Studio project\copy2\copy2\obj\Debug\copy2.csproj.AssemblyReference.cache
+D:\Job Files\WD\My projects\C Sharp\Visual Studio project\copy2\copy2\obj\Debug\copy2.Form1.resources
+D:\Job Files\WD\My projects\C Sharp\Visual Studio project\copy2\copy2\obj\Debug\copy2.Properties.Resources.resources
+D:\Job Files\WD\My projects\C Sharp\Visual Studio project\copy2\copy2\obj\Debug\copy2.csproj.GenerateResource.cache
+D:\Job Files\WD\My projects\C Sharp\Visual Studio project\copy2\copy2\obj\Debug\copy2.csproj.CoreCompileInputs.cache
+D:\Job Files\WD\My projects\C Sharp\Visual Studio project\copy2\copy2\obj\Debug\copy2.exe
+D:\Job Files\WD\My projects\C Sharp\Visual Studio project\copy2\copy2\obj\Debug\copy2.pdb
